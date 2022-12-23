@@ -1,0 +1,42 @@
+PING google.com (142.250.186.110): 56 data bytes
+64 bytes from 142.250.186.110: icmp_seq=0 ttl=113 time=87.648 ms
+
+--- google.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 87.648/87.648/87.648/0.000 ms
+PING amazon.com (205.251.242.103): 56 data bytes
+64 bytes from 205.251.242.103: icmp_seq=0 ttl=232 time=185.529 ms
+
+--- amazon.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 185.529/185.529/185.529/0.000 ms
+PING yahoo.com (74.6.231.21): 56 data bytes
+64 bytes from 74.6.231.21: icmp_seq=0 ttl=47 time=317.186 ms
+
+--- yahoo.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 317.186/317.186/317.186/0.000 ms
+PING ammonnews.net (149.202.169.242): 56 data bytes
+64 bytes from 149.202.169.242: icmp_seq=0 ttl=47 time=80.260 ms
+
+--- ammonnews.net ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 80.260/80.260/80.260/0.000 ms
+PING bbc.com (151.101.64.81): 56 data bytes
+64 bytes from 151.101.64.81: icmp_seq=0 ttl=53 time=54.982 ms
+
+--- bbc.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 54.982/54.982/54.982/0.000 ms
+PING cnn.com (151.101.131.5): 56 data bytes
+64 bytes from 151.101.131.5: icmp_seq=0 ttl=53 time=51.148 ms
+
+--- cnn.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 51.148/51.148/51.148/0.000 ms
+PING rj.com (107.162.149.248): 56 data bytes
+64 bytes from 107.162.149.248: icmp_seq=0 ttl=241 time=103.043 ms
+
+--- rj.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 103.043/103.043/103.043/0.000 ms
